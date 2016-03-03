@@ -1,0 +1,28 @@
+name: chrisyauckphotography
+favicon: null
+layout_spectrum: 0.5236208990681916
+typography_spectrum: 0.17266108701005578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.037901621544733644
+  lightness: 0.36777533614076674
+  saturation: 0.22305522044189274
+  rhythmicContrast: 0.9496160226408392
+purpose: []
